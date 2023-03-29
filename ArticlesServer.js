@@ -6,7 +6,7 @@ const ArticleFinder = express();
 ArticleFinder.use(express.json()); //Using .Json here to be able to recieve data in a JSON Format!
 
 const http = require('http')
-let PORT = 2223; //Setting the port number to 2223
+const PORT = 2223; //Setting the port number to 2223
 
 
 let ArticlesList = [
