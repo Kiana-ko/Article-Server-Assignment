@@ -9,6 +9,6 @@
   "author": "Kiana",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.0"
+    "express": "^4.21.1"
   }
 }
